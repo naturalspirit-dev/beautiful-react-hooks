@@ -74,7 +74,7 @@
     "eslint-plugin-react": "^7.25.1",
     "eslint-plugin-react-hooks": "4.2.0",
     "glob": "^7.1.7",
-    "husky": "^7.0.2",
+    "husky": "^8.0.3",
     "jsdoc-to-markdown": "^7.0.1",
     "jsdom": "^17.0.0",
     "jsdom-global": "^3.0.2",
